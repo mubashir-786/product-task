@@ -1,4 +1,4 @@
-#  Product Listing 
+#  Product Listing.
 
 Infinite product listing task
 
